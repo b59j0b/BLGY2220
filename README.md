@@ -1,1 +1,12 @@
-# BLGY2220
+java c
+
+BLGY2220 Evolution, Adaptation, and BehaviourForaging Practical
+
+
+
+You have been asked to write a report using the data collected during your foraging laboratory practical. Your report has a 2000 word limit. Submit online (link in “submit my work”) by 12.00 13th March 2025.Here is a recommended structure for your report:·   INTRODUCTION (include a hypothesis)·   METHODS·   RESULTS (I would recommend 2-3 figures to support your statistical tests)·   DISCUSSION·   REFERENCES ·   You need to format your assessments using normal margin sizes, and Arial font, size 11pt.In the Minerva folder for this practical you will find an Excel spreadsheet containing your data combined with some from previous years. The data might need some sorting into a form. in which you can use to analyse it. Your task is to answer the overall question:“How does foraging in groups affect individuals?”You’ll want to consider how group size impacts an individual’s chances of survival, through death and energy consumption. You can explain why this occurs by evidencing trade-offs taking place.From this, you’ll have three hypothesis you’ll want to testThere a代 写BLGY2220 Evolution, Adaptation, and Behaviour Foraging PracticalJava
+代做程序编程语言re 4 dependent variables that you could   use; net seeds eaten (spots of food dye standing in for seeds, seeds – penalties, dead individuals get a 0 rather than negative numbers), seeds consumed per minute, scans made per minute and forager mortality. You need to explore and plot these data and apply appropriate statistical tests. You then need to assess what the results of the tests are telling you and relate that to behaviour of animals in the wild.We will not be telling you how to analyse or plot the data, but you can talk it through with us.HINTS:·   Look at feedback from previous modules (e.g. BLGY1325, BLGY1306, BLGY1300, BLGY2155)·   Data contains 0, so don’t need to transform. it. Apply non-parametric tests instead.·   What type of data do you have? Are they formatted correctly for R?·   When are post-hoc tests needed?This is the only help session, so make sure you at least know what you’re going to do with the data by the end. If you haven’t taken level 1 data analysis then make sure the demonstrators know and help you (if you are more used to performing data analysis in R that’s fine).
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
